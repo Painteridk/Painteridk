@@ -1,0 +1,5 @@
+- 👋 Hi, i'm @Painteridk
+- 👀 I'm ... 15 years old 
+- 🐍 I know ... JavaScript, Node.js Framework, Discord.js v13, NPM, and a bit of Batch.
+- 🍒 I manage ... Audacity, Sub-Faction of Rz (https://github.com/Audacity)
+- 🍎 How to contact me ... https://discord.id/?prefill=904801249428385882
